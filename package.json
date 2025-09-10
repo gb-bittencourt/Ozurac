@@ -3,10 +3,7 @@
   "displayName": "Ozurac",
   "description": "Tema Escuro para aqueles que curte o mesmo gosto.",
   "publisher": "gb-bittencourt",
-  "repository": {
-        "url": "https://github.com/gb-bittencourt/Ozurac"
-    },
-  "version": "1.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.103.0"
   },
