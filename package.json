@@ -1,28 +1,21 @@
 {
   "name": "ozurac",
   "displayName": "Ozurac",
-  "description": "Tema Escuro com alguns detalhes verde.",
+  "description": "Tema escuro de VSCode com detalhes verde-escuro",
   "publisher": "gb-bittencourt",
-  "version": "1.0.1",
-  "license":"MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gb-bittencourt/Ozurac"
-  },
-  "homepage": "https://github.com/gb-bittencourt/Ozurac/blob/main/README.md",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.103.0"
   },
   "categories": [
     "Themes"
   ],
-    "keywords": [
+  "keywords": [
+    "Ozurac",
     "Themes",
-    "Dark Theme",
-    "color-theme",
-    "Ozurac"
+    "Dark Theme"
   ],
-  "icon":"icon.jpg",
+  "icon":"icon.png",
   "contributes": {
     "themes": [
       {
@@ -31,5 +24,11 @@
         "path": "./themes/Ozurac.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gb-bittencourt/Ozurac"
+  },
+  "homepage": "https://github.com/gb-bittencourt/Ozurac/blob/main/README.md",
+  "license":"MIT"
 }
